@@ -1,6 +1,8 @@
 const Formulario = () => {
   return (
-    <div>Formulario</div>
+    <div>
+      <h2 className="bg">Formulario</h2>
+    </div>
   )
 }
 
